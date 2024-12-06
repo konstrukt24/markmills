@@ -29,7 +29,7 @@ const Timer = () => {
 
   return (
     <div className="container">
-        <p className='container'>До новых правил ограблений осталось: <br /> {remainingTime}</p>
+        <p className='container'>До новых правил ограбления осталось: <br /> {remainingTime}</p>
     </div>
   );
 };
